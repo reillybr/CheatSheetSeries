@@ -78,7 +78,7 @@ parser->setFeature(XMLUni::fgXercesDisableDefaultEntityResolution, true);
 
 ## ColdFusion
 
-Per [this blog post](https://hoyahaxa.blogspot.com/2022/11/on-coldfusion-xxe-and-other-xml-attacks.html), both Adobe ColdFusion and Lucee have built-in mechanisms to disable support for external XML entities.
+Perr [this blog post](https://hoyahaxa.blogspot.com/2022/11/on-coldfusion-xxe-and-other-xml-attacks.html), both Adobe ColdFusion and Lucee have built-in mechanisms to disable support for external XML entities.
 
 ### Adobe ColdFusion
 
